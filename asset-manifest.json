@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.e5d4da0e.css",
-    "main.js": "/MyPortfolio/static/js/main.4268f754.js",
+    "main.js": "/MyPortfolio/static/js/main.6eb62300.js",
     "static/media/disneyClone.png": "/MyPortfolio/static/media/disneyClone.7fdfc62c5a678fc59515.png",
     "static/media/jewelry.png": "/MyPortfolio/static/media/jewelry.6101ab6d4118063ec108.png",
     "static/media/inventory.png": "/MyPortfolio/static/media/inventory.8426d4afa119d164ce84.png",
     "static/media/madukaImage2.png": "/MyPortfolio/static/media/madukaImage2.19cb2fc37b00ebc9d731.png",
     "static/media/bellvantage.png": "/MyPortfolio/static/media/bellvantage.0800afea5f3456f49fc1.png",
-    "static/media/Maduka-CV-Resume.pdf": "/MyPortfolio/static/media/Maduka-CV-Resume.c1d992a6ea96946ccaff.pdf",
+    "static/media/Maduka-CV-Resume.pdf": "/MyPortfolio/static/media/Maduka-CV-Resume.c292cc3691325d857fe2.pdf",
     "static/media/hospital.png": "/MyPortfolio/static/media/hospital.9438efc4467e7fd7aa1f.png",
     "static/media/pharmacy.png": "/MyPortfolio/static/media/pharmacy.73d41b7c80f9da9314e5.png",
     "static/media/tagsmate.png": "/MyPortfolio/static/media/tagsmate.2d0aaf3512d7d0d05c91.png",
@@ -17,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.e5d4da0e.css",
-    "static/js/main.4268f754.js"
+    "static/js/main.6eb62300.js"
   ]
 }
