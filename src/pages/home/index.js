@@ -4,7 +4,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import Typewriter from "typewriter-effect";
 import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
-import CV from "../../assets/pdf/MadukaCV.pdf";
+import CV from "../../assets/pdf/Maduka-CV-Resume.pdf";
 
 export const Home = () => {
   return (
